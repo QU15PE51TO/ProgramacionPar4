@@ -1,3 +1,6 @@
+// Materia: Programación I, Paralelo 4
+// Autor: Kevin Javier Quidpe Mamani.
+// Fecha creación: 06/10/2026
 #include <iostream>
 #include <string>
 #include <sstream>
