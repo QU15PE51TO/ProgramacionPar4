@@ -28,7 +28,7 @@ void generadordematrices(int dimencion,int matriz[100][100])
         {
             for (int j=0;j<dimencion;j++)
             {   
-                matriz[i][j]=Aleatorio(0,9);
+                matriz[i][j]=j+i+j+1;
             }
         }
 }
