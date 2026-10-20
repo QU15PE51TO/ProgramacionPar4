@@ -38,7 +38,7 @@ void imprenciondematrices(int dimencion,int matriz[100][100])
         {
             for (int j=0;j<dimencion;j++)
             {   
-                cout<<matriz[i][j];
+                cout<<matriz[i][j]<<"\t";
             }
             cout<<endl;
         }
